@@ -24,4 +24,4 @@ This is a Python script that converts various document formats to PDF. It suppor
 
 Note: The script relies on LibreOffice to convert Word documents to PDF. Make sure you have LibreOffice installed on your system.
 
-Feel free to customize the script according to your needs.
+Feel free to customize the script according to your needs :p.
